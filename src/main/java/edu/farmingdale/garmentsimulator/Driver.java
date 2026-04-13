@@ -1,8 +1,5 @@
 package edu.farmingdale.garmentsimulator;
 
-import javax.xml.transform.Source;
-import java.sql.SQLOutput;
-
 //Driver class for testing
 public class Driver {
 
